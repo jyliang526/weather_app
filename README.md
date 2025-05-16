@@ -11,28 +11,23 @@ This is a weather application built for the PM Accelerator technical assessment.
 Visit [PM Accelerator LinkedIn](https://www.linkedin.com/company/pm-accelerator/) for more details on the Product Manager Accelerator program.
 
 ## How to Run
-1. Clone this repository:
-```bash
+- Clone this repository:
 git clone https://github.com/jyliang526/weather_app.git
 cd weather_app
-
-2. Install dependencies:
-```bash
+- Install dependencies:
 pip install -r requirements.txt
-
-3. Run the application:
-```bash
+- Run the application:
 python app.py
-
-4. Open your browser and navigate to:
-http://127.0.0.1:5000
+- Open your browser and navigate to:
+http://127.0.0.1:5000.
 
 ## Requirements
-Python 3.x
-Flask
-Requests
+
+Python 3.x  
+Flask  
+Requests  
 Install dependencies with:
-```bash
 pip install -r requirements.txt
+
 
 ## Demo Video
