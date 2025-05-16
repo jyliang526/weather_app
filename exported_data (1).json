@@ -1,0 +1,37 @@
+[
+  {
+    "end_date": "2025-05-16",
+    "id": 1,
+    "location": "Beijing",
+    "start_date": "2025-05-16",
+    "weather_data": "{\"coord\": {\"lon\": 116.3972, \"lat\": 39.9075}, \"weather\": [{\"id\": 801, \"main\": \"Clouds\", \"description\": \"few clouds\", \"icon\": \"02n\"}], \"base\": \"stations\", \"main\": {\"temp\": 16.24, \"feels_like\": 14.73, \"temp_min\": 16.24, \"temp_max\": 16.24, \"pressure\": 1005, \"humidity\": 31, \"sea_level\": 1005, \"grnd_level\": 1000}, \"visibility\": 10000, \"wind\": {\"speed\": 7.08, \"deg\": 324, \"gust\": 12.36}, \"clouds\": {\"all\": 22}, \"dt\": 1747425310, \"sys\": {\"country\": \"CN\", \"sunrise\": 1747429079, \"sunset\": 1747481030}, \"timezone\": 28800, \"id\": 1816670, \"name\": \"Beijing\", \"cod\": 200}"
+  },
+  {
+    "end_date": "2025-05-16",
+    "id": 2,
+    "location": "Chicago",
+    "start_date": "2025-05-16",
+    "weather_data": "{\"coord\": {\"lon\": -87.65, \"lat\": 41.85}, \"weather\": [{\"id\": 800, \"main\": \"Clear\", \"description\": \"clear sky\", \"icon\": \"01d\"}], \"base\": \"stations\", \"main\": {\"temp\": 30.08, \"feels_like\": 31.01, \"temp_min\": 28.91, \"temp_max\": 30.87, \"pressure\": 997, \"humidity\": 49, \"sea_level\": 997, \"grnd_level\": 976}, \"visibility\": 10000, \"wind\": {\"speed\": 7.14, \"deg\": 190, \"gust\": 10.09}, \"clouds\": {\"all\": 0}, \"dt\": 1747424486, \"sys\": {\"type\": 2, \"id\": 2002935, \"country\": \"US\", \"sunrise\": 1747391364, \"sunset\": 1747443885}, \"timezone\": -18000, \"id\": 4887398, \"name\": \"Chicago\", \"cod\": 200}"
+  },
+  {
+    "end_date": "2025-05-16",
+    "id": 3,
+    "location": "Chicago",
+    "start_date": "2025-05-16",
+    "weather_data": "{\"coord\": {\"lon\": -87.65, \"lat\": 41.85}, \"weather\": [{\"id\": 800, \"main\": \"Clear\", \"description\": \"clear sky\", \"icon\": \"01d\"}], \"base\": \"stations\", \"main\": {\"temp\": 30.08, \"feels_like\": 31.01, \"temp_min\": 28.91, \"temp_max\": 30.87, \"pressure\": 997, \"humidity\": 49, \"sea_level\": 997, \"grnd_level\": 976}, \"visibility\": 10000, \"wind\": {\"speed\": 7.14, \"deg\": 190, \"gust\": 10.09}, \"clouds\": {\"all\": 0}, \"dt\": 1747424486, \"sys\": {\"type\": 2, \"id\": 2002935, \"country\": \"US\", \"sunrise\": 1747391364, \"sunset\": 1747443885}, \"timezone\": -18000, \"id\": 4887398, \"name\": \"Chicago\", \"cod\": 200}"
+  },
+  {
+    "end_date": "2025-05-16",
+    "id": 4,
+    "location": "Chicago",
+    "start_date": "2025-05-16",
+    "weather_data": "{\"coord\": {\"lon\": -87.65, \"lat\": 41.85}, \"weather\": [{\"id\": 800, \"main\": \"Clear\", \"description\": \"clear sky\", \"icon\": \"01d\"}], \"base\": \"stations\", \"main\": {\"temp\": 30.43, \"feels_like\": 33.24, \"temp_min\": 29.51, \"temp_max\": 30.87, \"pressure\": 997, \"humidity\": 58, \"sea_level\": 997, \"grnd_level\": 976}, \"visibility\": 10000, \"wind\": {\"speed\": 7.14, \"deg\": 190, \"gust\": 10.09}, \"clouds\": {\"all\": 0}, \"dt\": 1747424964, \"sys\": {\"type\": 2, \"id\": 2002935, \"country\": \"US\", \"sunrise\": 1747391364, \"sunset\": 1747443885}, \"timezone\": -18000, \"id\": 4887398, \"name\": \"Chicago\", \"cod\": 200}"
+  },
+  {
+    "end_date": "2025-05-16",
+    "id": 5,
+    "location": "Chicago",
+    "start_date": "2025-05-16",
+    "weather_data": "{\"coord\": {\"lon\": -87.65, \"lat\": 41.85}, \"weather\": [{\"id\": 800, \"main\": \"Clear\", \"description\": \"clear sky\", \"icon\": \"01d\"}], \"base\": \"stations\", \"main\": {\"temp\": 30.4, \"feels_like\": 33.18, \"temp_min\": 28.98, \"temp_max\": 30.87, \"pressure\": 997, \"humidity\": 58, \"sea_level\": 997, \"grnd_level\": 976}, \"visibility\": 10000, \"wind\": {\"speed\": 7.14, \"deg\": 190, \"gust\": 10.09}, \"clouds\": {\"all\": 0}, \"dt\": 1747425433, \"sys\": {\"type\": 2, \"id\": 2002935, \"country\": \"US\", \"sunrise\": 1747391364, \"sunset\": 1747443885}, \"timezone\": -18000, \"id\": 4887398, \"name\": \"Chicago\", \"cod\": 200}"
+  }
+]
